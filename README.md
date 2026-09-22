@@ -1,2 +1,3 @@
 # oliver-IT-25A-linux
-school project's
+these are my school project's
+
